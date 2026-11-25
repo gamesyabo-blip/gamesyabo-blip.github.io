@@ -37,3 +37,9 @@ footer a { color: var(--muted); }
 .game span { display: block; color: var(--muted); font-size: 15px; line-height: 1.45; }
 .game em { display: inline-block; margin-top: 6px; font-style: normal; font-size: 12.5px; font-weight: 600; color: var(--line); }
 .label { color: var(--muted); font-size: 13px; letter-spacing: .14em; text-transform: uppercase; margin: 52px 0 0; }
+.game-policy h3 { font-size: 17px; margin: 0 0 10px; }
+.game-policy h3 small { font-weight: 400; color: var(--muted); font-size: 14px; }
+.game-policy ul { margin: 0; }
+.game-policy li:last-child { margin-bottom: 0; }
+.zigline { --line: #EE3A7C; }
+.zigline .button { background: linear-gradient(110deg, #FF2E88, #FF5A3C 55%, #FF9A1A); color: #fff; }
