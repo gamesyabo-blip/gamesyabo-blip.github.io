@@ -43,3 +43,5 @@ footer a { color: var(--muted); }
 .game-policy li:last-child { margin-bottom: 0; }
 .zigline { --line: #EE3A7C; }
 .zigline .button { background: linear-gradient(110deg, #FF2E88, #FF5A3C 55%, #FF9A1A); color: #fff; }
+.blockoff { --line: #E0478F; }
+.blockoff .button { background: linear-gradient(110deg, #351F62, #8A2E86 50%, #EF5BA1); color: #fff; }
